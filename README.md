@@ -33,25 +33,27 @@ DMT Twink Manager (клиентский мод на Fabric) позволяет �
 
 Всё. Твинк зашёл на сервер, а ты продолжаешь играть.
 
+> **Рекомендуем играть с ресурспаком Dominant UI.** Он делает весь интерфейс Minecraft в том же стиле, что и меню мода. Ссылки под каждую версию есть в таблице ниже, подробнее в разделе [Ресурспак Dominant UI](#ресурспак-dominant-ui).
+
 ## Скачать
 
 В каждом архиве уже лежит всё, что нужно моду: сам мод, **Fabric API** и **Fabric Language Kotlin** (Kotlin). Отдельно ничего докачивать не надо, кроме самого Fabric Loader.
 
-| Версия Minecraft | Архив (мод + Fabric API + Kotlin) | Java |
-|---|---|---|
-| 1.20, 1.20.1 | [DMT-Twink-Manager-1.0.0-MC-1.20-1.20.1.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.20-1.20.1.zip) | 17+ |
-| 1.20.3, 1.20.4 | [DMT-Twink-Manager-1.0.0-MC-1.20.3-1.20.4.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.20.3-1.20.4.zip) | 17+ |
-| 1.20.5, 1.20.6 | [DMT-Twink-Manager-1.0.0-MC-1.20.5-1.20.6.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.20.5-1.20.6.zip) | 21+ |
-| 1.21, 1.21.1 | [DMT-Twink-Manager-1.0.0-MC-1.21-1.21.1.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21-1.21.1.zip) | 21+ |
-| 1.21.2, 1.21.3 | [DMT-Twink-Manager-1.0.0-MC-1.21.2-1.21.3.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.2-1.21.3.zip) | 21+ |
-| 1.21.4 | [DMT-Twink-Manager-1.0.0-MC-1.21.4.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.4.zip) | 21+ |
-| 1.21.5 | [DMT-Twink-Manager-1.0.0-MC-1.21.5.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.5.zip) | 21+ |
-| 1.21.6, 1.21.7, 1.21.8 | [DMT-Twink-Manager-1.0.0-MC-1.21.6-1.21.8.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.6-1.21.8.zip) | 21+ |
-| 1.21.9, 1.21.10 | [DMT-Twink-Manager-1.0.0-MC-1.21.9-1.21.10.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.9-1.21.10.zip) | 21+ |
-| 1.21.11 | [DMT-Twink-Manager-1.0.0-MC-1.21.11.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.11.zip) | 21+ |
-| 26.2 | [DMT-Twink-Manager-1.0.0-MC-26.2.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-26.2.zip) | 25+ |
+| Версия Minecraft | Архив (мод + Fabric API + Kotlin) | Ресурспак (рекомендуем) | Java |
+|---|---|---|---|
+| 1.20, 1.20.1 | [DMT-Twink-Manager-1.0.0-MC-1.20-1.20.1.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.20-1.20.1.zip) | [Dominant UI](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-UI-1.0.0-MC-1.20-1.20.1.zip) | 17+ |
+| 1.20.3, 1.20.4 | [DMT-Twink-Manager-1.0.0-MC-1.20.3-1.20.4.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.20.3-1.20.4.zip) | [Dominant UI](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-UI-1.0.0-MC-1.20.3-1.20.4.zip) | 17+ |
+| 1.20.5, 1.20.6 | [DMT-Twink-Manager-1.0.0-MC-1.20.5-1.20.6.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.20.5-1.20.6.zip) | [Dominant UI](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-UI-1.0.0-MC-1.20.5-1.20.6.zip) | 21+ |
+| 1.21, 1.21.1 | [DMT-Twink-Manager-1.0.0-MC-1.21-1.21.1.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21-1.21.1.zip) | [Dominant UI](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-UI-1.0.0-MC-1.21-1.21.1.zip) | 21+ |
+| 1.21.2, 1.21.3 | [DMT-Twink-Manager-1.0.0-MC-1.21.2-1.21.3.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.2-1.21.3.zip) | [Dominant UI](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-UI-1.0.0-MC-1.21.2-1.21.3.zip) | 21+ |
+| 1.21.4 | [DMT-Twink-Manager-1.0.0-MC-1.21.4.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.4.zip) | [Dominant UI](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-UI-1.0.0-MC-1.21.4.zip) | 21+ |
+| 1.21.5 | [DMT-Twink-Manager-1.0.0-MC-1.21.5.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.5.zip) | [Dominant UI](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-UI-1.0.0-MC-1.21.5.zip) | 21+ |
+| 1.21.6, 1.21.7, 1.21.8 | [DMT-Twink-Manager-1.0.0-MC-1.21.6-1.21.8.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.6-1.21.8.zip) | [Dominant UI](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-UI-1.0.0-MC-1.21.6-1.21.8.zip) | 21+ |
+| 1.21.9, 1.21.10 | [DMT-Twink-Manager-1.0.0-MC-1.21.9-1.21.10.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.9-1.21.10.zip) | [Dominant UI](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-UI-1.0.0-MC-1.21.9-1.21.10.zip) | 21+ |
+| 1.21.11 | [DMT-Twink-Manager-1.0.0-MC-1.21.11.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.11.zip) | [Dominant UI](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-UI-1.0.0-MC-1.21.11.zip) | 21+ |
+| 26.2 | [DMT-Twink-Manager-1.0.0-MC-26.2.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-26.2.zip) | [Dominant UI](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-UI-1.0.0-MC-26.2.zip) | 25+ |
 
-Те же файлы без архива лежат в папке [`downloads`](downloads) этого репозитория, по папке на каждую версию.
+Те же файлы без архива лежат в папке [`downloads`](downloads) этого репозитория, по папке на каждую версию (ресурспак там в подпапке `resourcepack`).
 
 **1.20.2 не поддерживается.**
 
@@ -64,6 +66,25 @@ fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar Kotlin для Fabric
 ```
 
 Если у тебя в `mods` уже есть Fabric API или Fabric Language Kotlin, оставь более новую версию, а дубликат удали. Два одинаковых мода в папке Fabric не запустит.
+
+## Ресурспак Dominant UI
+
+Советуем ставить мод вместе с ресурспаком **Dominant UI**. Он перекрашивает обычный интерфейс Minecraft в тот же плоский тёмный стиль, что и меню мода, и всё выглядит как одно целое.
+
+Что меняет ресурспак:
+
+* **Кнопки, ползунки, галочки и вкладки** становятся плоскими полупрозрачными плашками, выбранное подсвечено мятным цветом.
+* **Инвентари** (свой инвентарь, сундуки, печки, верстак, творческий режим и остальные) становятся полупрозрачно затемнёнными, сквозь них видно мир. Подписи в инвентарях мод сам делает светлыми, чтобы их было хорошо видно.
+* **Хотбар** становится тёмной плашкой, выбранный слот обведён мятной рамкой.
+* **Фоны меню и списков** становятся ровными, без узора (на 1.20.5 и новее).
+
+Как поставить:
+
+1. Скачай ресурспак **под свою версию** Minecraft из таблицы выше. Под каждую версию он свой, чужой может отображаться криво.
+2. **Не распаковывай** архив, просто закинь `.zip` в папку `resourcepacks`.
+3. В игре открой «Настройки» → «Пакеты ресурсов» и включи **Dominant UI**.
+
+На 1.20 и 1.20.1 ресурспак меняет кнопки, ползунки, галочки, вкладки, хотбар и инвентари. Поля ввода и фоны меню в этих версиях остаются ванильными.
 
 ## Важно: на каких серверах работает
 
