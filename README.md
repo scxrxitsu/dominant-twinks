@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="icon.png" width="128" alt="Dominant Twinks">
+  <img src="icon.png" width="128" alt="DMT Twink Manager">
 </p>
 
-<h1 align="center">Dominant Twinks</h1>
+<h1 align="center">DMT Twink Manager</h1>
 
 <p align="center">
   Несколько аккаунтов в одном клиенте Minecraft.<br>
@@ -17,7 +17,7 @@
 
 ## Что это за мод
 
-Dominant Twinks (клиентский мод на Fabric) позволяет держать на сервере сразу несколько своих аккаунтов из **одного** окна Minecraft. Ты играешь за один аккаунт, а остальные (твинки) подключены к тому же серверу как лёгкие фоновые сессии: они не рисуют мир и почти не грузят компьютер, но находятся в игре, видят чат, могут писать, выполнять команды, ходить за тобой и запускать макросы.
+DMT Twink Manager (клиентский мод на Fabric) позволяет держать на сервере сразу несколько своих аккаунтов из **одного** окна Minecraft. Ты играешь за один аккаунт, а остальные (твинки) подключены к тому же серверу как лёгкие фоновые сессии: они не рисуют мир и почти не грузят компьютер, но находятся в игре, видят чат, могут писать, выполнять команды, ходить за тобой и запускать макросы.
 
 В любой момент можно «пересесть» на любого твинка: мир, инвентарь и позиция подхватываются сразу, без экрана загрузки и без повторного входа на сервер. Аккаунт, за который ты играл, при этом не выходит, а уходит в фон.
 
@@ -39,17 +39,17 @@ Dominant Twinks (клиентский мод на Fabric) позволяет д�
 
 | Версия Minecraft | Архив (мод + Fabric API + Kotlin) | Java |
 |---|---|---|
-| 1.20, 1.20.1 | [Dominant-Twinks-1.0.0-MC-1.20-1.20.1.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-Twinks-1.0.0-MC-1.20-1.20.1.zip) | 17+ |
-| 1.20.3, 1.20.4 | [Dominant-Twinks-1.0.0-MC-1.20.3-1.20.4.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-Twinks-1.0.0-MC-1.20.3-1.20.4.zip) | 17+ |
-| 1.20.5, 1.20.6 | [Dominant-Twinks-1.0.0-MC-1.20.5-1.20.6.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-Twinks-1.0.0-MC-1.20.5-1.20.6.zip) | 21+ |
-| 1.21, 1.21.1 | [Dominant-Twinks-1.0.0-MC-1.21-1.21.1.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-Twinks-1.0.0-MC-1.21-1.21.1.zip) | 21+ |
-| 1.21.2, 1.21.3 | [Dominant-Twinks-1.0.0-MC-1.21.2-1.21.3.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-Twinks-1.0.0-MC-1.21.2-1.21.3.zip) | 21+ |
-| 1.21.4 | [Dominant-Twinks-1.0.0-MC-1.21.4.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-Twinks-1.0.0-MC-1.21.4.zip) | 21+ |
-| 1.21.5 | [Dominant-Twinks-1.0.0-MC-1.21.5.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-Twinks-1.0.0-MC-1.21.5.zip) | 21+ |
-| 1.21.6, 1.21.7, 1.21.8 | [Dominant-Twinks-1.0.0-MC-1.21.6-1.21.8.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-Twinks-1.0.0-MC-1.21.6-1.21.8.zip) | 21+ |
-| 1.21.9, 1.21.10 | [Dominant-Twinks-1.0.0-MC-1.21.9-1.21.10.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-Twinks-1.0.0-MC-1.21.9-1.21.10.zip) | 21+ |
-| 1.21.11 | [Dominant-Twinks-1.0.0-MC-1.21.11.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-Twinks-1.0.0-MC-1.21.11.zip) | 21+ |
-| 26.2 | [Dominant-Twinks-1.0.0-MC-26.2.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/Dominant-Twinks-1.0.0-MC-26.2.zip) | 25+ |
+| 1.20, 1.20.1 | [DMT-Twink-Manager-1.0.0-MC-1.20-1.20.1.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.20-1.20.1.zip) | 17+ |
+| 1.20.3, 1.20.4 | [DMT-Twink-Manager-1.0.0-MC-1.20.3-1.20.4.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.20.3-1.20.4.zip) | 17+ |
+| 1.20.5, 1.20.6 | [DMT-Twink-Manager-1.0.0-MC-1.20.5-1.20.6.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.20.5-1.20.6.zip) | 21+ |
+| 1.21, 1.21.1 | [DMT-Twink-Manager-1.0.0-MC-1.21-1.21.1.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21-1.21.1.zip) | 21+ |
+| 1.21.2, 1.21.3 | [DMT-Twink-Manager-1.0.0-MC-1.21.2-1.21.3.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.2-1.21.3.zip) | 21+ |
+| 1.21.4 | [DMT-Twink-Manager-1.0.0-MC-1.21.4.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.4.zip) | 21+ |
+| 1.21.5 | [DMT-Twink-Manager-1.0.0-MC-1.21.5.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.5.zip) | 21+ |
+| 1.21.6, 1.21.7, 1.21.8 | [DMT-Twink-Manager-1.0.0-MC-1.21.6-1.21.8.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.6-1.21.8.zip) | 21+ |
+| 1.21.9, 1.21.10 | [DMT-Twink-Manager-1.0.0-MC-1.21.9-1.21.10.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.9-1.21.10.zip) | 21+ |
+| 1.21.11 | [DMT-Twink-Manager-1.0.0-MC-1.21.11.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-1.21.11.zip) | 21+ |
+| 26.2 | [DMT-Twink-Manager-1.0.0-MC-26.2.zip](https://github.com/scxrxitsu/dominant-twinks/releases/download/v1.0.0/DMT-Twink-Manager-1.0.0-MC-26.2.zip) | 25+ |
 
 Те же файлы без архива лежат в папке [`downloads`](downloads) этого репозитория, по папке на каждую версию.
 
@@ -153,11 +153,11 @@ fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar Kotlin для Fabric
 
 | Клавиша | Действие |
 |---|---|
-| **U** | Открыть меню Dominant Twinks |
+| **U** | Открыть меню мода |
 | **]** | Следующий аккаунт |
 | **[** | Предыдущий аккаунт |
 
-Клавиши меняются в обычных настройках управления Minecraft, в разделе «Dominant Twinks». Кнопка **Twinks** есть в меню паузы, в главном меню и в списке серверов.
+Клавиши меняются в обычных настройках управления Minecraft, в разделе «Dominant Twinks» (так мод пока называется внутри игры). Кнопка **Twinks** есть в меню паузы, в главном меню и в списке серверов.
 
 ### Команды (по желанию)
 
