@@ -204,7 +204,7 @@ fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar Kotlin для Fabric
 
 ## Автор
 
-Мод сделал **Itsuki**.
+Мод сделал **Itsuki** (scxrx).
 
 Идеи и предложения пишите в Telegram: [@whymorphkilled](https://t.me/whymorphkilled). Баги можно оставлять в [Issues](https://github.com/scxrxitsu/dominant-twinks/issues).
 
